@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ```
 python3 manage.py runserver
 ```
-6. Visit at [127.0.0.1:8000](127.0.0.1:8000) in your browser
+6. Visit at [127.0.0.1:8000](http://127.0.0.1:8000) in your browser
